@@ -1,7 +1,7 @@
 public class fish extends animal implements pet{
     protected String name;
     public fish() {
-        System.out.println("Fish adopted");
+        System.out.println("Fish spawned");
     }
     public fish(String name) {
         //super(this.name);
@@ -19,9 +19,11 @@ public class fish extends animal implements pet{
     public void play(){
         System.out.println("Fish is playing");
     }
+    @Override
     public void walk(){
         System.out.println("Fish is swimming");
     }
+    @Override
     public void eat(){
         System.out.println("Fish is eating");
     }
