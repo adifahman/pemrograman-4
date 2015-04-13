@@ -5,7 +5,7 @@ public class animal{
         
     }
     protected animal(int legs){
-        System.out.println("Breeding an Animal");
+        System.out.println("Animal spawned");
         this.legs = legs;
     }
     public void walk(){
