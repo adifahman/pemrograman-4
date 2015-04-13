@@ -1,7 +1,7 @@
 public class cat extends animal implements pet{
     protected String name;
     public cat() {
-        System.out.println("Cat adopted");
+        System.out.println("Cat spawned");
     }
     public cat(String name) {
         System.out.println("This cat called " + name);
