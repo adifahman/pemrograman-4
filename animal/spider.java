@@ -1,4 +1,4 @@
-public class spider {
+public class spider extends animal{
     public spider(){
         System.out.println("There is a spider");
     }
