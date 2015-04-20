@@ -27,7 +27,7 @@ public class divison extends department{
         System.out.println("ID : " + id);
         System.out.println("Departemen : " + nama_dept);
         System.out.println("Kepala divisi : " + kepalaDivisi);
-        System.out.println("Gaji : Rp. 2.000.000" + gj);
+        System.out.println("Gaji : Rp. " + gj);
     }
     
     public void hitungGaji(int gj){
