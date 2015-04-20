@@ -18,11 +18,13 @@ public class divison extends department{
         kepalaDivisi = new_kd;
     }
     
+    @Override
     public void tampilkanInfo(){
         System.out.println("ID : " + id);
         System.out.println("Departemen : " + nama_dept);
         System.out.println("Kepala divisi : " + kepalaDivisi);
     }
+    
     public void tampilkanInfo(int gj){
         System.out.println("ID : " + id);
         System.out.println("Departemen : " + nama_dept);
