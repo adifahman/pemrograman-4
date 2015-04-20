@@ -1,17 +1,17 @@
-# pemrograman-4
-Kuliah Pemrograman 4
+## pemrograman-4
+###Kuliah Pemrograman 4
 
-Tugas
+###Tugas
 
-April 6, 2015 - animal
+#######April 6, 2015 - animal
 
 
-Latihan
+###Latihan
 
-Maret 9, 2015 - kendaraan
+#######Maret 9, 2015 - kendaraan
 
-Maret 16, 2015 - hewan
+#######Maret 16, 2015 - hewan
 
-April 6, 2015 - abstract
+#######April 6, 2015 - abstract
 
-April 20, 2015 - department
+#######April 20, 2015 - department
