@@ -1,11 +1,11 @@
-public class Demo {
+public class demo {
     public static void main(String[] args){
-        Departement dept1 = new Departement();
-        Departement dept2 = new Departement("A1");
-        Departement dept3 = new Departement("A2", "Keuangan");
+        department dept1 = new department();
+        department dept2 = new department("A1");
+        department dept3 = new department("A2", "Keuangan");
         
-        Divison div1 = new Divison("A3", "Tata Usaha", "Lieur");
-        Divison div2 = new Divison();
+        divison div1 = new divison("A3", "Tata Usaha", "Mr. X");
+        divison div2 = new divison();
         
         dept1.tampilkanInfo();
         dept2.tampilkanInfo();
